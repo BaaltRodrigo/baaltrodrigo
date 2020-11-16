@@ -5,7 +5,7 @@ In charge of digital and technological evolution on [Facilita SPA][facilita]. A 
 
 Also working on a personal project based on georeference. 
 
-## Languajes and Tools:
+## Languages and Tools:
 [<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
 [<img alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][nodejs]
 [<img alt="Electron" width="26px" src="https://simpleicons.org/icons/electron.svg" />][electron]
@@ -27,9 +27,6 @@ Also working on a personal project based on georeference.
 - 🎮 Pokemon trainer and collector. Living dex: 832 of 898.
 - 🗣️ Languages: Spanish, English.
 - 🤖 Gunpla builder!
-
-<br />
-<br />
 
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baaltrodrigo&count_private=true&show_icons=true&hide=stars,prs" />
 
