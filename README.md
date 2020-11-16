@@ -21,13 +21,17 @@ Also working on a personal project based on georeference.
 [<img alt="windows" width="26px" src="https://simpleicons.org/icons/windows.svg" />][microsoft]
 [<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][githubprofile]
 
----
 ## More about me:
 - 🥋 Judoka. 2nd Kyu (Blue belt)
 - 💻 Currently working on my company and studing
 - 🎮 Pokemon trainer and collector. Living dex: 832 of 898.
 - 🗣️ Languages: Spanish, English.
 - 🤖 Gunpla builder!
+
+<br />
+<br />
+
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baaltrodrigo&count_private=true&show_icons=true&hide=stars,prs" />
 
 [facilita]: https://www.facilita.cl/
 [vscode]: https://code.visualstudio.com/
