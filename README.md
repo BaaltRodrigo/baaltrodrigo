@@ -5,7 +5,7 @@ In charge of digital and technological evolution on [Facilita][facilita]. A Chil
 
 Some interest in georeference. Actually, with plans to do a personal project related to this.
 
-## Languajes and Tools:
+## Languages and Tools:
 [<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
 [<img alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][nodejs]
 [<img alt="Electron" width="26px" src="https://simpleicons.org/icons/electron.svg" />][electron]
@@ -27,9 +27,6 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 - 🎮 Pokemon trainer and collector. Living dex: 832 of 898.
 - 🗣️ Languages: Spanish, English.
 - 🤖 Gunpla builder!
-
-<br />
-<br />
 
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baaltrodrigo&count_private=true&show_icons=true&hide=stars,prs" />
 
