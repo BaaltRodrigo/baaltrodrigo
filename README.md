@@ -1,9 +1,9 @@
 # Rodrigo Pizarro - aka BaaltRodrigo 👾
 I'm Rodrigo from Chile. I create some APIs and some Web Apps at my work using JavaScript, VUE and Laravel. I enjoy learning new stuff that improve my work.
 
-In charge of digital and technological evolution on [Facilita SPA][facilita]. A Chilean company that helps anothers companies to keep tracking of their monetary flow and financials.
+In charge of digital and technological evolution on [Facilita][facilita]. A Chilean company that helps anothers companies to keep tracking of their monetary flow and financials.
 
-Also working on a personal project based on georeference. 
+Some interest in georeference. Actually, with plans to do a personal project related to this.
 
 ## Languajes and Tools:
 [<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
