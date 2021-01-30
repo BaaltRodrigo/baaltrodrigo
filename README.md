@@ -6,20 +6,19 @@ In charge of digital and technological evolution on [Facilita][facilita]. A Chil
 Some interest in georeference. Actually, with plans to do a personal project related to this.
 
 ## Languages and Tools:
-[<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
-[<img alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][nodejs]
-[<img alt="Electron" width="26px" src="https://simpleicons.org/icons/electron.svg" />][electron]
-[<img alt="NodeJS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />][nodejs]
-[<img alt="VUE" width="26px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][vuejs]
-[<img alt="Vuetify" width="26px" src="https://simpleicons.org/icons/vuetify.svg" />][vuetify]
-[<img alt="PHP" width="26px" src="https://simpleicons.org/icons/php.svg" />][php]
-[<img alt="Laravel" width="26px" src="https://simpleicons.org/icons/laravel.svg" />][laravel]
-[<img alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
-<img alt="HTML" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-[<img alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][psql]
-[<img alt="ubuntu" width="26px" src="https://simpleicons.org/icons/ubuntu.svg" />][ubuntu]
-[<img alt="windows" width="26px" src="https://simpleicons.org/icons/windows.svg" />][microsoft]
-[<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][githubprofile]
+[<img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
+[<img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />][nodejs]
+[<img alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />][electron]
+[<img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs]
+[<img alt="Vuetify" width="26px" src="https://content.nexza.com/stack-items/vuetify.png" />][vuetify]
+[<img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
+[<img alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][laravel]
+[<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][psql]
+[<img alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img alt="windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" />][microsoft]
+[<img alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][githubprofile]
 
 ## More about me:
 - 🥋 Judoka. 2nd Kyu (Blue belt)
@@ -27,8 +26,6 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 - 🎮 Pokemon trainer and collector. Living dex: 832 of 898.
 - 🗣️ Languages: Spanish, English.
 - 🤖 Gunpla builder!
-
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baaltrodrigo&count_private=true&show_icons=true&hide=stars,prs" />
 
 [facilita]: https://www.facilita.cl/
 [vscode]: https://code.visualstudio.com/
