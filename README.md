@@ -6,19 +6,19 @@ In charge of digital and technological evolution on [Facilita][facilita]. A Chil
 Some interest in georeference. Actually, with plans to do a personal project related to this.
 
 ## Languages and Tools:
-[<img alt="Visual Studio Code" width="26px" src="./icons/visual-studio-code-1024px.png" />][vscode]
-[<img alt="JavaScript" width="26px" src="./icons/javascript-1200px.png" />][nodejs]
-[<img alt="Electron" width="26px" src="./icons/electron-framework-1024px.png" />][electron]
-[<img alt="NodeJS" width="26px" src="./icons/nodejs.png" />][nodejs]
-[<img alt="VUE" width="26px" src="./icons/vue.png" />][vuejs]
-[<img alt="Vuetify" width="26px" src="./icons/vuetify.png" />][vuetify]
-[<img alt="PHP" width="26px" src="./icons/php.png" />][php]
-[<img alt="Laravel" width="26px" src="./icons/laravel-1200px.png" />][laravel]
-[<img alt="Python" width="26px" src="./icons/python.png" />][python]
-[<img alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />][psql]
-[<img alt="ubuntu" width="26px" src="./icons/ubuntu.png" />][ubuntu]
-[<img alt="windows" width="26px" src="./icons/windows-logo-2012.png" />][microsoft]
-[<img alt="git" width="26px" src="./icons/git-1024px.png" />][githubprofile]
+[<img style="margin-right: 4px" alt="Visual Studio Code" width="26px" src="./icons/visual-studio-code-1024px.png" />][vscode]
+[<img style="margin-right: 4px" alt="JavaScript" width="26px" src="./icons/javascript-1200px.png" />][nodejs]
+[<img style="margin-right: 4px" alt="Electron" width="26px" src="./icons/electron-framework-1024px.png" />][electron]
+[<img style="margin-right: 4px" alt="NodeJS" width="26px" src="./icons/nodejs.png" />][nodejs]
+[<img style="margin-right: 4px" alt="VUE" width="26px" src="./icons/vue.png" />][vuejs]
+[<img style="margin-right: 4px" alt="Vuetify" width="26px" src="./icons/vuetify.png" />][vuetify]
+[<img style="margin-right: 4px" alt="PHP" width="26px" src="./icons/php.png" />][php]
+[<img style="margin-right: 4px" alt="Laravel" width="26px" src="./icons/laravel-1200px.png" />][laravel]
+[<img style="margin-right: 4px" alt="Python" width="26px" src="./icons/python.png" />][python]
+[<img style="margin-right: 4px" alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />][psql]
+[<img style="margin-right: 4px" alt="ubuntu" width="26px" src="./icons/ubuntu.png" />][ubuntu]
+[<img style="margin-right: 4px" alt="windows" width="26px" src="./icons/windows-logo-2012.png" />][microsoft]
+[<img style="margin-right: 4px" alt="git" width="26px" src="./icons/git-1024px.png" />][githubprofile]
 
 ## More about me:
 - 🥋 Judoka. 2nd Kyu (Blue belt)
