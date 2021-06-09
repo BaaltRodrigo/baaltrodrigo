@@ -23,7 +23,7 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 ## More about me:
 - 🥋 Judoka. 2nd Kyu (Blue belt)
 - 💻 Currently working on my company and studing
-- 🎮 Pokemon trainer and collector. Living dex: 832 of 898.
+- 🎮 Pokemon trainer and collector. Living dex: 841 of 898.
 - 🗣️ Languages: Spanish, English.
 - 🤖 Gunpla builder!
 
