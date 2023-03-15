@@ -1,7 +1,7 @@
 # Rodrigo Pizarro - aka BaaltRodrigo 👾
 I'm Rodrigo from Chile. I create some APIs and some Web Apps at my work using JavaScript, VUE and Laravel. I enjoy learning new stuff that improve my work.
 
-In charge of digital and technological evolution on [Facilita][facilita]. A Chilean company that helps anothers companies to keep tracking of their monetary flow and financials.
+In charge of digital and technological evolution on [Facilita][facilita]. A Chilean company that helps others to keep tracking of their employees and salaries.
 
 Some interest in georeference. Actually, with plans to do a personal project related to this.
 
@@ -21,7 +21,7 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 [<img style="margin-right: 4px" alt="git" width="26px" src="./icons/git-1024px.png" />][githubprofile]
 
 ## More about me:
-- 🥋 Judoka. 2nd Kyu (Blue belt)
+- 🥋 Judoka. 1st Kyu (Brown belt)
 - 💻 Currently working on my company and studing
 - 🎮 Pokemon trainer and collector. Living dex: 841 of 898.
 - 🗣️ Languages: Spanish, English.
