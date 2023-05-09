@@ -1,12 +1,13 @@
 # Rodrigo Pizarro - aka BaaltRodrigo 👾
-I'm Rodrigo from Chile. I create some APIs and some Web Apps at my work using JavaScript, VUE and Laravel. I enjoy learning new stuff that improve my work.
+
+I'm Rodrigo from Chile. I create some APIs and Web Apps at my work using JavaScript, VUE and Laravel. I enjoy learning new stuff that improve my work.
 
 In charge of digital and technological evolution on [Facilita][facilita]. A Chilean company that helps others to keep tracking of their employees and salaries.
 
-Some interest in georeference. Actually, with plans to do a personal project related to this.
+Trying to improve the ones around me with my work and my knowledge.
 
-## Languages and Tools:
-[<img style="margin-right: 4px" alt="Visual Studio Code" width="26px" src="./icons/visual-studio-code-1024px.png" />][vscode]
+## Languages, Frameworks and related
+
 [<img style="margin-right: 4px" alt="JavaScript" width="26px" src="./icons/javascript-1200px.png" />][nodejs]
 [<img style="margin-right: 4px" alt="Electron" width="26px" src="./icons/electron-framework-1024px.png" />][electron]
 [<img style="margin-right: 4px" alt="NodeJS" width="26px" src="./icons/nodejs.png" />][nodejs]
@@ -16,16 +17,24 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 [<img style="margin-right: 4px" alt="Laravel" width="26px" src="./icons/laravel-1200px.png" />][laravel]
 [<img style="margin-right: 4px" alt="Python" width="26px" src="./icons/python.png" />][python]
 [<img style="margin-right: 4px" alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />][psql]
-[<img style="margin-right: 4px" alt="ubuntu" width="26px" src="./icons/ubuntu.png" />][ubuntu]
+
+## Also have experience with
+
+[<img style="margin-right: 4px" alt="Visual Studio Code" width="26px" src="./icons/visual-studio-code-1024px.png" />][vscode]
 [<img style="margin-right: 4px" alt="windows" width="26px" src="./icons/windows-logo-2012.png" />][microsoft]
 [<img style="margin-right: 4px" alt="git" width="26px" src="./icons/git-1024px.png" />][githubprofile]
+[<img style="margin-right: 4px" alt="git" width="26px" src="./icons/github-mark-white.png" />][githubprofile]
+[<img style="margin-right: 4px" alt="ubuntu" width="26px" src="./icons/ubuntu.png" />][ubuntu]
+[<img style="margin-right: 4px" alt="git" width="26px" src="./icons/firebase-logo-logomark.png" />][firebase]
 
-## More about me:
+## More about me
+
 - 🥋 Judoka. 1st Kyu (Brown belt)
-- 💻 Currently working on my company and studing
-- 🎮 Pokemon trainer and collector. Living dex: 841 of 898.
-- 🗣️ Languages: Spanish, English.
+- 💻 Currently working on my company and studying
+- 🎮 Pokemon trainer and collector. Living dex: 841 of 898
+- 🗣️ Languages: Spanish, English
 - 🤖 Gunpla builder!
+- 📖 Love to read. <sup><sub><sup><sub>There is always another secret</sub></sup></sub></sup>
 
 [facilita]: https://www.facilita.cl/
 [vscode]: https://code.visualstudio.com/
@@ -40,3 +49,4 @@ Some interest in georeference. Actually, with plans to do a personal project rel
 [psql]: https://www.postgresql.org/
 [ubuntu]: https://ubuntu.com/
 [microsoft]: https://www.microsoft.com/
+[firebase]: https://firebase.google.com/
