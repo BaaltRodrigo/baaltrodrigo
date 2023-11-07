@@ -1,8 +1,8 @@
 # Rodrigo Pizarro - aka BaaltRodrigo 👾
 
-I'm Rodrigo, a judoka 🥋 from Chile. I create some APIs and Web Apps at my work using JavaScript, VUE and Laravel. I enjoy learning new stuff that improve my work.
+I'm Rodrigo, a judoka 🥋 from Chile. I create some APIs and Web Apps at my work using Laravel and VueJS. I enjoy learning new stuff that improve my work.
 
-Currently in charge of digital and technological evolution on [Facilita][facilita].
+Currently working as a sofware engineer [@Facilita][facilita].
 
 Trying to help the ones around me and myself to be a better version of ourselves every day.
 
