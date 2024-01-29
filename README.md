@@ -2,8 +2,6 @@
 
 I'm Rodrigo, a judoka 🥋 from Chile. I create some APIs and Web Apps at my work using Laravel and VueJS. I enjoy learning new stuff that improve my work.
 
-Currently working as a sofware engineer [@Facilita][facilita].
-
 Trying to help the ones around me and myself to be a better version of ourselves every day.
 
 ## Languages, Frameworks and related
@@ -24,7 +22,6 @@ Trying to help the ones around me and myself to be a better version of ourselves
 [<img style="margin-right: 4px" alt="ubuntu" width="26px" src="./icons/ubuntu.png" />][ubuntu]
 [<img style="margin-right: 4px" alt="git" width="26px" src="./icons/firebase-logo-logomark.png" />][firebase]
 
-[facilita]: https://www.facilita.cl/
 [vscode]: https://code.visualstudio.com/
 [nodejs]: https://nodejs.org/en/
 [electron]: https://www.electronjs.org/
