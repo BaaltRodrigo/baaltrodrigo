@@ -36,5 +36,3 @@ Trying to help the ones around me and myself to be a better version of ourselves
 [microsoft]: https://www.microsoft.com/
 [firebase]: https://firebase.google.com/
 
----
-<img src="https://hits-app.vercel.app/hits?url=https://github.com/BaaltRodrigo&bgRight=6a00b5" />
